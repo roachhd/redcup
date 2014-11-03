@@ -1,7 +1,7 @@
-title: RedCup
+title: RedCupd
 description: "Redcup: An awesome Theme for Jekyll"
 
-url: http://nadjetey.github.io/redcup/
+url: http://roachhd.github.io/redcup/
 port: 3000
 highlighter: pygments
 
@@ -11,6 +11,6 @@ markdown: redcarpet
 google_analytics: #
 
 owner:
-  name: Nii Adjetey Sowah
-  disqus_shortname: nadjetey
-  twitter: _nadjetey
+  name: Katie Ball
+  disqus_shortname: roachhd
+  twitter: _mektball
